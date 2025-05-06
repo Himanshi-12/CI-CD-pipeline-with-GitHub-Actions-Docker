@@ -1,7 +1,7 @@
-# CI-CD-pipeline-with-GitHub-Actions-Docker
+# Project 4: CI/CD Pipeline with GitHub Actions & Docker
 
-## objective
-Set up a full CI/CD pipeline that builds a Docker image, runs tests, and deploys locally.
+## Objective
+Set up a CI/CD pipeline that builds a Docker image for a Node.js app, runs tests, and deploys locally.
 
 ## Tools
 - Node.js
